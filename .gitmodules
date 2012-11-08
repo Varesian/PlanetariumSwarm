@@ -4,3 +4,6 @@
 [submodule "Assets/Scripts/UnityParticleScripts"]
 	path = Assets/Scripts/UnityParticleScripts
 	url = git://github.com/Varesian/UnityParticleScripts.git
+[submodule "Assets/Scripts/ParticlePlay"]
+	path = Assets/Scripts/ParticlePlay
+	url = git://github.com/Varesian/ParticlePlay
