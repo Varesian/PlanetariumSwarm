@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PointCloudCollideOnMouseOver.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PointCloudCollideOnMouseOver.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\BillieJean\ColorChanger.cs" Line="32" Column="1" />
+      <File FileName="Assets\Scripts\ParticlePlay\ParticleAttracterRegisterOnPointCloudCollision.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\PointCloud\PointCloudFadingCollider.cs" Line="56" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
