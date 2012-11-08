@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\ParticlePlay\ParticleAttractorRegister.cs" />
      <Compile Include="Assets\Scripts\ParticlePlay\ParticleController.cs" />
      <Compile Include="Assets\Scripts\ParticlePlay\ParticleEmitterRegister.cs" />
+     <Compile Include="Assets\Scripts\ParticlePlay\ParticleEmitterSwitcher.cs" />
      <Compile Include="Assets\Scripts\PointCloud\Calibrator.cs" />
      <Compile Include="Assets\Scripts\PointCloud\CameraSwitcher.cs" />
      <Compile Include="Assets\Scripts\PointCloud\ColliderCalibrator.cs" />
